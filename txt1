@@ -4,4 +4,4 @@ jenkins test
 
 jenkins ping
 test for slave machine ping
-slave ping
+slave ping2
